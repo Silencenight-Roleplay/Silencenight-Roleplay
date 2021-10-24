@@ -1,8 +1,8 @@
 ---
-website: https://silencenight.de/
+Webseite: https://silencenight.de/
 ---
 
-# LogLive
+# Silencnight
 
 ## 0.2.3 (2019-02-20T05:33:00.150Z)
 
@@ -22,7 +22,7 @@ website: https://silencenight.de/
 
 ### New
 
-Now you can use it as a Vue component too!
+Jetzt können Sie es auch als Vue-Komponente verwenden!
 
 ```vue
 <template>
