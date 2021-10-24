@@ -1,5 +1,5 @@
 ---
-website: https://github.com/egoist/loglive
+website: https://silencenight.de/
 ---
 
 # LogLive
