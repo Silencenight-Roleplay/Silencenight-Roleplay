@@ -1,16 +1,16 @@
-![Discord Tickets](https://i.ibb.co/CMvxWdx/gradient.png)
+![Discord Tickets](https://i.ibb.co/bJTvr3P/banner.jpg)
 
 # 🎫 Ticketsystem-Bot
 ## 📝 Inhaltsverzeichnis
 
-+ [Über](https://github.com/cyberlox-dev/Ticketsystem-Bot#-über)
-+ [Befehle](https://github.com/cyberlox-dev/Ticketsystem-Bot#-Befehle)
-+ [Beitragen](https://github.com/cyberlox-dev/Ticketsystem-Bot#%EF%B8%8F-Beitragen)
-+ [Lizenz](https://github.com/cyberlox-dev/Ticketsystem-Bot#-Lizenz)
++ [Über](https://github.com/cyberlox-dev/Giveaway-Bot#-über)
++ [Befehle](https://github.com/cyberlox-dev/Giveaway-Bot#-Befehle)
++ [Beitragen](https://github.com/cyberlox-dev/Giveaway-Bot#%EF%B8%8F-Beitragen)
++ [Lizenz](https://github.com/cyberlox-dev/Giveaway-Bot#-Lizenz)
 
 ## ❔ Über
-Dies ist ein Ticketsystem-Bot, der von `Pascal#0397` erstellt wurde. Es wird mit [Node.js](https://nodejs.org/en/) und [Discord.js](https://discord.js.org) codiert.
-Wenn Sie Fehler finden, melden Sie diese bitte durch [Einreichen eines Problems](https://github.com/cyberlox-dev/Ticketsystem-Bot/issues/new) 
+Dies ist ein Giveaway-Bot, der von `Pascal#0397` erstellt wurde. Es wird mit [Node.js](https://nodejs.org/en/) und [Discord.js](https://discord.js.org) codiert.
+Wenn Sie Fehler finden, melden Sie diese bitte durch [Einreichen eines Problems](https://github.com/cyberlox-dev/Giveaway-Bot/issues/new) 
 Du kannst auch dem [Support Server](https://discord.gg/KBTKwWH3NG) beitreten.
 
 ## 💬 Befehle
@@ -54,4 +54,4 @@ ticket | Verwaltet das Ticket, schließt, löscht, erstellt Log usw.
 Wenn Sie dazu beitragen möchten, teilen Sie dieses Repository bitte mit und senden Sie einen Pull-Request! Du kannst auch dem [Discord-Server](https://discord.gg/KBTKwWH3NG) beitreten oder mich direkt auf Discord unter `Pascal#0397` kontaktieren. Jeder ist willkommen, neue Funktionen vorzuschlagen und den Bot zu verbessern!
 
 ## 📄 Lizenz
-Dieses Projekt ist unter der MIT License – Details finden Sie in der Datei [LICENSE](https://github.com/cyberlox-dev/Ticketsystem-Bot/blob/main/LICENSE).
+Dieses Projekt ist unter der MIT License – Details finden Sie in der Datei [LICENSE](https://github.com/cyberlox-dev/Giveaway-Bot/blob/main/LICENSE).
